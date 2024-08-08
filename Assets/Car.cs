@@ -30,5 +30,5 @@ public class Car : MonoBehaviour
             transform.Translate(Vector3.right * _carSpeed * Time.deltaTime);
         }
     }
-   //qwertydima
+   
 }
